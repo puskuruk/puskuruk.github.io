@@ -1,8 +1,8 @@
 # Site settings
 title: Tamay Eser Uysal
 description: Portfolio Page
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+url: 'https://puskuruk.github.io/tamayeseruysal/'
+baseurl: '/tamayeseruysal'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
