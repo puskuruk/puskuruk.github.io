@@ -4,6 +4,9 @@ sitemap:
 exclude: 'yes'
 ---
 
+/* Owner Of This Page */
+Tamay Eser Uysal ==> "Puskuruk"
+
 /* TEAM */
 Developer & Designer: Josh Gerdes
 Twitter: @joshgerdes
