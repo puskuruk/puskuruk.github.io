@@ -39,7 +39,7 @@ Ruby ile öğrendiklerimi not alabileceğim bir uygulamamsı yazmıştım ve onu
 alias ne_ogrendim="ruby /home/puskuruk/WhatILearnedToday/whatdidulearned.rb"
 ```
 
-Uygulama ise
+Uygulama ise [Geliştirmek isterseniz repo'nun linki](https://github.com/puskuruk/WhatILearnedToday)
 ```ruby
 puts "What did you learned?"
 whatdidulearned = gets
