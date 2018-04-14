@@ -11,10 +11,17 @@ Alias nedir?
 
 Alias linux'te konsolda kullanmak üzerine kullanacağınız kısa yollar anlamına geliyor. Genel kullanımı ise:
 
+Konsolda anlık kullanım için:
 ```console
-alias kullanmak_istediğiniz_isim="Kullanmak istediğiniz kod"
+$ alias kullanmak_istediğiniz_isim="Kullanmak istediğiniz kod"
 ```
 
+
+Bu alias'ları kalıcı kılmak için ise kullandığınız kabuğun konfigürasyon dosyasının içine(nasıl yapacağınızı yazının ilerleyen kısımlarında bulabilirsiniz) şu yazım biçimi yazabilirsiniz:
+
+```console
+kullanmak_istediğiniz_isim="Kullanmak istediğiniz kod"
+```
 Benim kullandıklarım:
 
 Eski laptopım(Victor G3013)da olan ekranı kapatma fonksiyonu(fn+f2) gerçekten beni çok mutlu ediyordu ve kullanışlı olduğunu düşünüyordum bu nedenle linux sistemlerin esnekliğinden faydalanarak bunu terminalden aktif etmek için kullanığım bir alias yazdım.
