@@ -56,7 +56,7 @@ Neden syntaxımız bu şekildeydi?
 
 document bizim html dosyamızın tamamını kapsıyor ve aslında yazım sırasına dikkat ederseniz aynı bir kütüphaneden bir element seçer gibi davranıyoruz yani ==> document > body > style > backgroundColor şeklindeki hiyeraşiyi "."'lar ile ayırıyoruz. Aşağıdaki resmin bunu çok iyi anlattığını düşünüyorum.
 
-[Dom Hiyeraşisi]: https://webmaster.kitchen/wp-content/uploads/webmaster-kitchen-html-dom.png
+![Dom Hiyeraşisi]: (https://www.w3schools.com/js/pic_htmltree.gif)
 
 Şimdi bir de html dosyamızdan sadece bir id'yi alalım.
 
