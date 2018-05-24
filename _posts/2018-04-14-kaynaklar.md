@@ -9,6 +9,10 @@ Bu post ile sabah kahvemi demlediğimde açtığım kaynakları sizinle paylaşm
 
 [Codeship Blog](https://blog.codeship.com/archive/)
 
+[Github'da first timers için repolar](https://open-source.now.sh/)
+
+[Contribute edilecek github repoları bulmak](https://www.codetriage.com/)
+
 [Panda!](https://usepanda.com/) 
 
 [Reddit Ruby](reddit.com/r/ruby)
