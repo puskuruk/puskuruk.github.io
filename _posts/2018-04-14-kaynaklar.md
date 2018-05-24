@@ -7,6 +7,8 @@ Bu post ile sabah kahvemi demlediğimde açtığım kaynakları sizinle paylaşm
 
 [Hacker News](http://news.ycombinator.com) Panda da hacker news olsa da tartışmalara katılmak için öncelikle kendi sitesine giriyorum
 
+[Codeship Blog](https://blog.codeship.com/archive/)
+
 [Panda!](https://usepanda.com/) 
 
 [Reddit Ruby](reddit.com/r/ruby)
