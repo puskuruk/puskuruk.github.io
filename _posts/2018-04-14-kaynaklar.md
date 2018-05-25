@@ -13,6 +13,8 @@ Bu post ile sabah kahvemi demlediğimde açtığım kaynakları sizinle paylaşm
 
 [Contribute edilecek github repoları bulmak](https://www.codetriage.com/)
 
+[Polyglot Developer](https://www.thepolyglotdeveloper.com/blog/)
+
 [Panda!](https://usepanda.com/) 
 
 [Reddit Ruby](reddit.com/r/ruby)
