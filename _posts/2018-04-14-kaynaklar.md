@@ -9,6 +9,8 @@ Bu post ile sabah kahvemi demlediğimde açtığım kaynakları sizinle paylaşm
 
 [Codeship Blog](https://blog.codeship.com/archive/)
 
+[SuperHi](https://www.superhi.com/video)
+
 [Github'da first timers için repolar](https://open-source.now.sh/)
 
 [Contribute edilecek github repoları bulmak](https://www.codetriage.com/)
