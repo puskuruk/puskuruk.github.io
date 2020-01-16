@@ -156,3 +156,8 @@ urlpatterns = [
 	url('^ajax_search/$', views.ajax_search, name = "ajax_search"),
 ]
 ```
+And I used this like this to every template:
+
+```
+{ % include 'ajax_search.html' %}
+```
